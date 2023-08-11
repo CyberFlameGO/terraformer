@@ -360,7 +360,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
-	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
@@ -378,9 +378,7 @@ require (
 require (
 	github.com/aws/aws-sdk-go-v2/service/identitystore v1.16.5
 	github.com/aws/aws-sdk-go-v2/service/medialive v1.24.2
-
 	github.com/aws/aws-sdk-go-v2/service/ssoadmin v1.16.5
-	github.com/opalsecurity/opal-go v1.0.9
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/as v1.0.392
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cbs v1.0.392
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cdb v1.0.392
