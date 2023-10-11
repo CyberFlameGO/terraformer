@@ -159,7 +159,7 @@ require (
 	github.com/zclconf/go-cty v1.11.0
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
 	golang.org/x/oauth2 v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/text v0.13.0
 	gonum.org/v1/gonum v0.7.0
 	google.golang.org/api v0.70.0
 	google.golang.org/genproto v0.0.0-20220505152158-f39f71e6c8f3
@@ -312,14 +312,14 @@ require (
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
 	go.mongodb.org/mongo-driver v1.7.5 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
+	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20220922220347-f3bd1da661af // indirect
-	golang.org/x/tools v0.1.12 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/grpc v1.48.0 // indirect
@@ -371,6 +371,7 @@ require (
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/manicminer/hamilton-autorest v0.2.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
+	golang.org/x/tools/cmd/cover v0.1.0-deprecated // indirect
 	k8s.io/kube-openapi v0.0.0-20220328201542-3ee0da9b0b42 // indirect
 	sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2 // indirect
 )
@@ -378,9 +379,7 @@ require (
 require (
 	github.com/aws/aws-sdk-go-v2/service/identitystore v1.16.5
 	github.com/aws/aws-sdk-go-v2/service/medialive v1.24.2
-
 	github.com/aws/aws-sdk-go-v2/service/ssoadmin v1.16.5
-	github.com/opalsecurity/opal-go v1.0.9
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/as v1.0.392
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cbs v1.0.392
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cdb v1.0.392
